@@ -11,7 +11,7 @@ Gaining knowledge and discovering things about computer science was quit advente
 
 2. Creating README files
 
-3. Some basic concepts in gits 
+3. Some basic concepts of virtual control systems
 
 
 
@@ -36,4 +36,13 @@ Gaining knowledge and discovering things about computer science was quit advente
    * interpreters
 3. Recap of python essentials.
 
-#####
+##### Module 3: Object oriented programming
+1. Definition,meaning and somedefinition of terms
+
+
+
+#### **CREATING README FILES**
+* Learnt how to create headers,emphasis,lists,links and tables
+
+#### **Some basic concept of virtual control systems**
+* I gained knowledge of git, it related terms and how it worked.
