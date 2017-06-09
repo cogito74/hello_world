@@ -1,6 +1,5 @@
 ---
 # **ACTIVITY REPORT FOR THE WEEK**
-
 Gaining knowledge and discovering things about computer science was quit adventerous and i felt fortunate for the privileged.
 ---
 ### LIST OF THINGS I COVERED.
