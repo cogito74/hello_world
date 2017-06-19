@@ -38,6 +38,8 @@ Gaining knowledge and discovering things about computer science was quit advente
    * Compilers
    * interpreters
 3. Recap of python essentials.
+   * Python List:- For and in, Range, while loops, List methods, List Buildups and list slice.
+   * Python Strings:- String methods, String slice,string %, If statements.
 ---
 
 
